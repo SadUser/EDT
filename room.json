@@ -16,11 +16,11 @@
     "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": null,
-        "cohost": null,
-        "manager": null,
-        "bouncer": null,
-        "rdj": null,
+        "host": "#006400",
+        "cohost": "#006400",
+        "manager": "#228B22",
+        "bouncer": "#228B22",
+        "rdj": "#228B22",
         "subscriber": null,
         "silversubscriber": null,
         "friend": null,
@@ -40,6 +40,11 @@
         "silversubscriber": null
     },
     "emotes": {
-    	"emote_name": null
+    	"edt": "https://i.imgur.com/DBtr6Tr.png",
+    	"chuck": "https://i.imgur.com/nw0CkZA.gif",
+    	"hatsune": "https://i.imgur.com/7c2rZBi.gif",
+    	"djsona": "https://i.imgur.com/p9j9onO.gif",
+    	"tosaindo": "https://i.imgur.com/X5ovb1Y.gif",
+    	"tom": "https://i.imgur.com/tPX2arb.png"
     }
 }
