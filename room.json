@@ -1,6 +1,6 @@
 {
-    "room": "Community Name",
-    "author": "Author",
+    "room": "ϟ●Electro Dubstep & Techno●ϟ",
+    "author": "EDT Staff",
     "icon": null,
     "css": null,
     "rules": {
@@ -28,7 +28,7 @@
     },
     "images": {
         "background": null,
-        "playback": null,
+        "playback": "https://rawgit.com/TheStrangerGuy/EDT/master/PlaybackEDT2.0.png",
         "admin": null,
         "ambassador": null,
         "host": null,
