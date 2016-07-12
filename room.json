@@ -28,7 +28,7 @@
     },
     "images": {
         "background": null,
-        "playback": "https://rawgit.com/TheStrangerGuy/EDT/master/PlaybackEDT2.0.png",
+        "playback": "https://rawgit.com/TheStrangerGuy/EDT/master/images/PlaybackEDT2.0.png",
         "admin": null,
         "ambassador": null,
         "host": null,
