@@ -9,16 +9,19 @@ background: #25b961 !important;
 background: #aa74ff;
 }
 .votes-rs .title.grab {
-background: #aa74ff !important;
+    background: #aa74ff !important;
 }
 #meh .bottom, #meh.selected {
-background: #c42e3b;
+    background: #c42e3b;
 }
 .votes-rs .title.meh {
-background: #c42e3b !important;
+    background: #c42e3b !important;
 }
 #woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
     animation: pulse 1s ease infinite;
+}
+#woot.selected .icon {
+    background: url('https://raw.githubusercontent.com/TheStrangerGuy/EDT/master/images/woot.png')  !important;
 }
 @keyframes pulse {
   0% {
