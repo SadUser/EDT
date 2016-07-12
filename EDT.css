@@ -84,3 +84,9 @@ background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%)
     -moz-box-shadow: inset 0 2px 0 -1px rgba(40,120,60,1) !important;
     box-shadow: inset 0 2px 0 -1px rgba(40,120,60,1) !important;
 }
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+background: #c42e3b !important;
+}
+#dj-button .left {
+background: #25b961 !important;
+}
