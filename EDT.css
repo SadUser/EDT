@@ -36,7 +36,7 @@
     background: linear-gradient(to left, rgba(37,185,97,0.3) 0%,rgba(0,0,0,0.75) 100%) !important;
     border-left: rgba(40, 120, 60, 0.75) 3px solid !important;
 }
-#user-lists .list .user:hover {
+#user-lists .list .user:hover, #waitlist .list .user {
 background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%) !important;
 }
 #chat-input {
