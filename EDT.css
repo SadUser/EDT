@@ -13,7 +13,7 @@
 #playlist-panel, #user-view, #waitlist .list .sortable-placeholder, #room-settings {
     background: rgba(0, 0, 0, 0.95) !important;
 }
-#now-playing-bar, #history-button, #rs-skip-button, #playlist-menu, #user-menu, #room-settings-menu {
+#now-playing-bar, #history-button, #rs-skip-button, #playlist-menu, #user-menu, #room-settings-menu, .app-right .friends {
     background: none !important;
 }
 #app-menu, #app-menu .list {
