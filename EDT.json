@@ -2,7 +2,7 @@
     "room": "ϟ●Electro Dubstep & Techno●ϟ",
     "author": "EDT Staff",
     "icon": null,
-    "css": "https://rawgit.com/TheStrangerGuy/EDT/master/EDT.css",
+    "css": "https://raw.githubusercontent.com/TheStrangerGuy/EDT/master/EDT.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
