@@ -1,5 +1,5 @@
 @import url("https://rawgit.com/TheStrangerGuy/EDT/master/Users.css");
-@import url("https://rawgit.com/TheStrangerGuy/EDT/master/WAM.css")
+@import url("https://rawgit.com/TheStrangerGuy/EDT/master/WAM.css");
 
 .app-header, #footer-user .info {
     background: rgba(0, 0, 0, 0.85) !important;
@@ -84,39 +84,3 @@ background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%)
     -moz-box-shadow: inset 0 2px 0 -1px rgba(40,120,60,1) !important;
     box-shadow: inset 0 2px 0 -1px rgba(40,120,60,1) !important;
 }
-/* Woot Add Meh */
-#woot .bottom, #woot.selected {
-background: #25b961 !important;
-}
-.votes-rs .title.woot {
-background: #25b961 !important;
-}
-#grab .bottom, #grab.selected {
-background: #aa74ff;
-}
-.votes-rs .title.grab {
-background: #aa74ff !important;
-}
-#meh .bottom, #meh.selected {
-background: #c42e3b;
-}
-.votes-rs .title.meh {
-background: #c42e3b !important;
-}
-#woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
-    animation: pulse 1s ease infinite;
-}
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-
-  50% {
-    transform: scale(1.5);
-  }
-
-  100% {
-    transform: scale(1);
-  }
-}
-/* Woot Add Meh */
