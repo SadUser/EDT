@@ -21,7 +21,7 @@ background: #aa74ff;
     animation: pulse 1s ease infinite;
 }
 #woot.selected .icon {
-    background: url('https://raw.githubusercontent.com/TheStrangerGuy/EDT/master/images/woot.png')  !important;
+    background: url('https://rawgit.com/TheStrangerGuy/EDT/master/images/woot.png')  !important;
 }
 @keyframes pulse {
   0% {
