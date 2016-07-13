@@ -31,11 +31,11 @@
         "playback": "https://rawgit.com/TheStrangerGuy/EDT/master/images/PlaybackEDT2.0.png",
         "admin": null,
         "ambassador": null,
-        "host": "https://rawgit.com/TheStrangerGuy/EDT/master/images/host-cohost.png",
-        "cohost": "https://rawgit.com/TheStrangerGuy/EDT/master/images/host-cohost.png",
-        "manager": "https://rawgit.com/TheStrangerGuy/EDT/master/images/manager.png",
-        "bouncer": "https://rawgit.com/TheStrangerGuy/EDT/master/images/bouncer.png",
-        "rdj": "https://rawgit.com/TheStrangerGuy/EDT/master/images/rdj.png",
+        "host": "https://rawgit.com/TheStrangerGuy/EDT/master/images/host-cohost.png"
+        "cohost": "https://rawgit.com/TheStrangerGuy/EDT/master/images/host-cohost.png"
+        "manager": "https://rawgit.com/TheStrangerGuy/EDT/master/images/manager.png"
+        "bouncer": "https://rawgit.com/TheStrangerGuy/EDT/master/images/bouncer.png"
+        "rdj": "https://rawgit.com/TheStrangerGuy/EDT/master/images/rdj.png"
         "subscriber": null,
         "silversubscriber": null
     },
