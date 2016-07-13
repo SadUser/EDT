@@ -1,9 +1,9 @@
 /* Staff */
 .icon-chat-host + span {
-    color:#228B22 !important;
+    color:#CD5555 !important;
 }
 .icon-chat-cohost + span {
-    color: #228B22 !important;
+    color: #CD5555 !important;
 }
 .icon-chat-manager + span {
     color: #68B354 !important;
