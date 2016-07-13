@@ -1,22 +1,17 @@
 /* Staff */
 .icon-chat-host + span {
     color:#228B22 !important;
-    background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/host-cohost.png") !important;
 }
 .icon-chat-cohost + span {
     color: #228B22 !important;
-    background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/host-cohost.png") !important;
 }
 .icon-chat-manager + span {
     color: #68B354 !important;
-    background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/manager.png") !important;
 }
 .icon-chat-bouncer + span {
     color: #68B354 !important;
-    background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/bouncer.png") !important;
 }
 .icon-chat-dj + span {
     color: #68B354 !important;
-    background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/rdj.png") !important;
 }
 /* Staff */
