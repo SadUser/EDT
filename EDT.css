@@ -90,6 +90,9 @@
 #playlist-menu .menu .row .count, #playlist-activate-button span {
 color: #FFF !important;
 }
+.icon-next-track {
+    background-position: -70px -175px !important;
+}
 .media-list .selected .actions {
     background: rgba(40, 120, 60, 1) !important;
 }
