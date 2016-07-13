@@ -20,7 +20,7 @@ background: #aa74ff;
 #woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
     animation: pulse 1s ease infinite;
 }
-#vote .crowd-response .top .icon-woot {
+#vote .crowd-response .top .icon-woot, #user-lists .list.room .user .icon-woot {
     background: url('https://rawgit.com/TheStrangerGuy/EDT/master/images/woot.png') !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
