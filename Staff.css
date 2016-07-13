@@ -26,13 +26,9 @@
 }
 .icon-chat-manager {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Manager1.0.png") !important;
-	animation: flip 1s ease infinite;
-	animation-duration: 20s !important;
 }
 .icon-chat-bouncer {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Bouncer1.0.png") !important;
-	animation: flip 1s ease infinite !important;
-	animation-duration: 20s !important;
 }
 .icon-chat-dj {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/RDJ.png") !important;
