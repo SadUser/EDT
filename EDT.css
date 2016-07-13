@@ -67,7 +67,7 @@ background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%)
 #user-lists .list.staff .group {
     border-top: 1px solid rgba(40, 120, 60, 1) !important;
     border-bottom: 1px solid rgba(40, 120, 60, 1) !important;
-    background: rgba(40, 120, 60, 0.75) !important;
+    background: rgba(40, 120, 60, 0.2) !important;
 }
 #playlist-button, #playlist-menu .menu .row.selected, #playlist-activate-button, #playlist-import:hover, .media-list .row.selected, .tab-menu button.selected, #user-menu .item.selected, #room-settings-menu .item.selected {
     background: rgba(40, 120, 60, 0.75) !important;
