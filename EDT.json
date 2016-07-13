@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "https://rawgit.com/TheStrangerGuy/EDT/master/images/Background.png",
+        "background": null,
         "playback": "https://rawgit.com/TheStrangerGuy/EDT/master/images/PlaybackEDT2.0.png",
         "admin": null,
         "ambassador": null,
