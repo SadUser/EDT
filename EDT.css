@@ -54,7 +54,13 @@
     border-left: rgba(40, 120, 60, 0.75) 3px solid !important;
 }
 #user-lists .list .user:hover, #waitlist .list .user {
-background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%) !important;
+	background: linear-gradient(to right, rgba(37,185,97,0.2) 0%,rgba(0,0,0,0) 100%) !important;
+}
+#chat .msg .text .name, #chat .msg .text .name .name {
+    color: #FFF !important;
+}
+.experience .xp .bar .progress, #footer-user .info .bar .progress, .experience .levels .level.earned.avatar .label {
+	background: #25b961 !important;
 }
 #chat-input {
 	background: rgba(40, 120, 60, 0.25) !important;
