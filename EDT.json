@@ -33,9 +33,9 @@
         "ambassador": null,
         "host": "https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png",
         "cohost": "https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png",
-        "manager": "https://rawgit.com/TheStrangerGuy/EDT/master/images/Manager.png",
-        "bouncer": "https://rawgit.com/TheStrangerGuy/EDT/master/images/Bouncer.png",
-        "rdj": "https://rawgit.com/TheStrangerGuy/EDT/master/images/RDJ.png",
+        "manager": "https://rawgit.com/TheStrangerGuy/EDT/master/images/manager.png",
+        "bouncer": "https://rawgit.com/TheStrangerGuy/EDT/master/images/bouncer.png",
+        "rdj": "https://rawgit.com/TheStrangerGuy/EDT/master/images/rdj.png",
         "subscriber": null,
         "silversubscriber": null
     },
