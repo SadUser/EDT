@@ -1,11 +1,4 @@
 /* EDTBot --> */
-[data-cid^="13720951-"] .msg .from .icon {
-    background-image: url("https://i.imgur.com/lDjnejP.png") !important;
-    background-size: 15px !important;
-}
-[data-cid^="13720951-"] .badge-box {
-    background: none;
-}
 [data-cid^="13720951-"] .badge-box .bdg {
     border-radius: 5px !important;
     background-image: url("https://i.imgur.com/FJ1NNl7.png") !important;
