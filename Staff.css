@@ -1,18 +1,18 @@
 /* Staff */
 .icon-chat-host + span {
-    color:#CD5555 !important;
+    color: #FFC125 !important;
 }
 .icon-chat-cohost + span {
-    color: #CD5555 !important;
+    color: #FFC125 !important;
 }
 .icon-chat-manager + span {
-    color: #68B354 !important;
+    color: #00FFFF !important;
 }
 .icon-chat-bouncer + span {
-    color: #68B354 !important;
+    color: #00BFFF !important;
 }
 .icon-chat-dj + span {
-    color: #68B354 !important;
+    color: #87CEFA !important;
 }
 .icon-chat-host {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png") !important;
@@ -21,12 +21,12 @@
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png") !important;
 }
 .icon-chat-manager {
-	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Manager.png") !important;
+	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/manager.png") !important;
 }
 .icon-chat-bouncer {
-	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Bouncer.png") !important;
+	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/bouncer.png") !important;
 }
 .icon-chat-dj {
-	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/RDJ.png") !important;
+	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/rdj.png") !important;
 }
 /* Staff */
