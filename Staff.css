@@ -16,17 +16,31 @@
 }
 .icon-chat-host {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png") !important;
+	animation: flip 1s ease infinite;
+	animation-duration: 5s;
 }
 .icon-chat-cohost {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png") !important;
+	animation: flip 1s ease infinite;
+	animation-duration: 5s;
 }
 .icon-chat-manager {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Manager1.0.png") !important;
+	animation: flip 1s ease infinite;
+	animation-duration: 5s;
 }
 .icon-chat-bouncer {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Bouncer1.0.png") !important;
+	animation: flip 1s ease infinite;
+	animation-duration: 5s;
 }
 .icon-chat-dj {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/RDJ.png") !important;
+}
+
+@keyframes flip {
+  0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+  40% {transform: translateY(-2px);}
+  60% {transform: translateY(-3px);}
 }
 /* Staff */
