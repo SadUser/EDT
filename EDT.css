@@ -84,6 +84,12 @@
 #playlist-button, #playlist-menu .menu .row.selected, #playlist-activate-button, #playlist-import:hover, .media-list .row.selected, .tab-menu button.selected, #user-menu .item.selected, #room-settings-menu .item.selected {
     background: rgba(40, 120, 60, 0.75) !important;
 }
+.icon-check-circle, .icon-check-purple {
+    background-position: -70px -140px !important;
+}
+#playlist-menu .menu .row .count, #playlist-activate-button span {
+color: #FFF !important;
+}
 .media-list .selected .actions {
     background: rgba(40, 120, 60, 1) !important;
 }
