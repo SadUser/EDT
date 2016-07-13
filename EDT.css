@@ -6,7 +6,7 @@
 .icon-room { 
 	width: 75px !important;
 }
-#room-name, #room-host {
+#room-name, #room-host, #now-playing-dj, #now-playing-media {
     left: 89px !important;
     color: #fff !important;
     font-weight: bold;
