@@ -1,18 +1,18 @@
 /* Staff */
 .icon-chat-host + span {
-    color: #FFC125 !important;
+    color: #228B22 !important;
 }
 .icon-chat-cohost + span {
-    color: #FFC125 !important;
+    color: #228B22 !important;
 }
 .icon-chat-manager + span {
-    color: #00FFFF !important;
+    color: #68B354 !important;
 }
 .icon-chat-bouncer + span {
-    color: #00BFFF !important;
+    color: #68B354 !important;
 }
 .icon-chat-dj + span {
-    color: #87CEFA !important;
+    color: #68B354 !important;
 }
 .icon-chat-host {
 	background: url("https://rawgit.com/TheStrangerGuy/EDT/master/images/Host-Co-Host.png") !important;
