@@ -1,4 +1,7 @@
 /* Staff */
+.icon-chat-ambassador + span {
+    color: #FF8C00 !important;
+}
 .icon-chat-host + span {
     color: #228B22 !important;
 }
