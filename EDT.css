@@ -77,7 +77,7 @@ background: rgba(0,0,0,0.5) !important;
     color: #FFF !important;
 }
 #rcs-progress-container .bar {
-    background: rgba(40, 120, 60, 0.75) !important;
+    background: #25b961 !important;
 }
 #user-lists .list.staff .group {
     border-top: 1px solid rgba(40, 120, 60, 1) !important;
