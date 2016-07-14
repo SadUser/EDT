@@ -96,7 +96,21 @@ color: #FFF !important;
 .media-list .selected .actions {
     background: rgba(40, 120, 60, 1) !important;
 }
-
+#room-bar .icon-grab, .communities .grid .cell .favorite .icon-grab {
+background-position: -40px -280px !important;
+}
+#room-bar .icon-grab, .communities .grid .cell .favorite .icon-grab {
+background-position: -40px -280px !important;
+}
+.communities .grid .cell .bar, .communities .grid .cell .favorite, .communities .grid .cell .meta, .communities .grid .cell .meta .host, .communities .grid .cell {
+background: #000 !important;
+}
+.communities .grid .cell:hover>.meta {
+background: rgba(0, 0, 0, 0.85) !important;
+}
+.communities .grid .cell .meta .join {
+background: rgba(30, 90, 45, 0.5) !important;
+}
 /* Scrollbar */
 ::-webkit-scrollbar-thumb {
     background: rgba(40, 120, 60, 0.75) !important;
