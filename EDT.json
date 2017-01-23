@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/1.png",
+        "background": null,
         "playback": "https://rawgit.com/TheStrangerGuy/EDT/master/images/PlaybackEDT2.0.png",
         "admin": null,
         "ambassador": "https://rawgit.com/TheStrangerGuy/EDT/master/images/BA.png",
