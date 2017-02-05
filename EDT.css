@@ -82,6 +82,12 @@ background: rgba(0,0,0,0.5) !important;
 #chat .msg .text .name, #chat .msg .text .name .name {
     color: #FFF !important;
 }
+/*-------------------------------------*/
+#chat .emote {
+border-left: rgba(40, 120, 60, 0.7) 3px solid !important;
+    background: linear-gradient(to right, rgba(19, 194, 181, 0.27)0,rgba(40, 120, 60, 0.7) 100%) !important;
+}
+/*-------------------------------------*/
 #rcs-progress-container .bar {
     background: #25b961 !important;
 }
