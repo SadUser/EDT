@@ -42,7 +42,7 @@
     "autocomplete": {
         "!dc": 0,
         "!edtemote": 0,
-        "!slots": 0,
+        "!slot": 0,
         "!points": 0,
         "!duel": 0,
         "!accept": 0,
@@ -67,13 +67,13 @@
         "!afkmessage": 0,
         "!kiss": 0,
         "!ask": 1,
-        "!steam": 1,
-        "!discord": 1,
-        "!site": 1,
+        
+        
+        
         "!duelhelp": 1,
         "!swaphelp": 1,
         "!adblock": 1,
-        "!script": 1,
+        
         "!votemutehelp": 1,
         "!fb": 1,
         "!msg": 1,
